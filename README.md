@@ -8,4 +8,4 @@ El juego genera palabras aleatorias en pantalla que el usuario debe escribir cor
 ## Tecnologías utilizadas
 * **HTML**: Estructura general de la interfaz de juego y contenedores de datos.
 * **CSS**: Diseño responsivo y estilizado centrado con sombras y tipografía limpia.
-* **JavaScript**: Manejo de temporizadores (`setInterval`), lógica de arrays aleatorios, captura de inputs en tiempo real y re-renderizado dinámico de la pantalla de Game Over.
+* **JavaScript**: Manejo de temporizadores (`setInterval`), lógica de arrays aleatorios y captura de inputs en tiempo real.
